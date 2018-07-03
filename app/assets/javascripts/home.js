@@ -1,0 +1,14 @@
+//= require materialize.min
+//= require menuzord
+//= require jquery.easing.min
+//= require jquery.sticky.min
+//= require smoothscroll.min
+//= require jquery.stellar.min
+//= require imagesloaded
+//= require jquery.inview.min
+//= require animated-headline
+//= require jquery.shuffle.min
+//= require owl.carousel.min
+//= require jquery.flexslider-min
+//= require jquery.magnific-popup.min
+//= require scripts
